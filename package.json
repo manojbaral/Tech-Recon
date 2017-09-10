@@ -1,0 +1,25 @@
+{
+  "name": "tech",
+  "version": "1.0.0",
+  "description": "Tech recon project using mean apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "*",
+    "mongoose": "*",
+    "bcryptjs": "*",
+    "cors": "*",
+    "jsonwebtoken": "*",
+    "body-parser": "*",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "author": "Manoj Baral,Chris Javier,Jordan Torrey,Paulo Sandoval,Martin",
+  "license": "ISC",
+  "devDependencies": {
+    "@angular/cli": "^1.4.1"
+  }
+}
